@@ -2,7 +2,7 @@
 
 ## DEMO
 
-  - file:///Users/shinnoyukiko/Desktop/janken1108/janken.html
+  - file:///Users/shinnoyukiko/Desktop/01_js_omikuji_sample/janken.html
 
 ## 紹介と使い方
 
