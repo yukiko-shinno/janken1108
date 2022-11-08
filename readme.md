@@ -2,7 +2,7 @@
 
 ## DEMO
 
-  - デプロイしている場合はURLを記入（任意）
+  - file:///Users/shinnoyukiko/Desktop/janken1108/janken.html
 
 ## 紹介と使い方
 
